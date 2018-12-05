@@ -95,7 +95,7 @@ See Git Blame information in the status bar for the currently selected line.
     <tr>
       <td><code>gitblame.statusBarMessageFormat</code></td>
       <td><code>string</code></td>
-      <td><code>"Blame ${author.name} ( ${time.ago} )"</code></td>
+      <td><code>"${author.name} ( ${time.ago} )"</code></td>
     </tr>
     <tr>
       <td colspan="3">

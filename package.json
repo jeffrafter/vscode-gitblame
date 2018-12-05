@@ -118,7 +118,7 @@
         },
         "gitblame.statusBarMessageFormat": {
           "type": "string",
-          "default": "Blame ${author.name} ( ${time.ago} )",
+          "default": "${author.name} ( ${time.ago} )",
           "description": "Customize the status bar message"
         },
         "gitblame.statusBarMessageNoCommit": {
